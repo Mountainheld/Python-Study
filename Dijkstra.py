@@ -101,4 +101,5 @@ if __name__ == "__main__":
 
     thm = Algorithm()
     thm.calculate_shortest_path(vertex_list, node1)
+    
     thm.get_shortest_path_to(node4)
